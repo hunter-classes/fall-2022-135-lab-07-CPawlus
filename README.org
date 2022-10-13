@@ -1,14 +1,12 @@
 * Fall 2022 - Lab 07
 
-* Last name:
+* Last name: Pawlus
 
-* First name:
+* First name: Christopher
 
-* GitHub username:
+* GitHub username: CPawlus
 
 * Notes:
-
-
   
 * General instructions:
 - Fill in your name and GitHub username on top.
