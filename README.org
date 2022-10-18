@@ -6,7 +6,7 @@
 
 * GitHub username: CPawlus
 
-* Notes:
+* Notes: Did not use doctest for testing.
   
 * General instructions:
 - Fill in your name and GitHub username on top.
