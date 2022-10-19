@@ -6,7 +6,7 @@
 
 * GitHub username: CPawlus
 
-* Notes: Did not use doctest for testing. Made the unindent.cpp and indent.cpp files with their .h files that compile into main.
+* Notes: Did not use doctest for testing. Made the unindent.cpp and indent.cpp their own executable files in the Makefile.
   
 * General instructions:
 - Fill in your name and GitHub username on top.
