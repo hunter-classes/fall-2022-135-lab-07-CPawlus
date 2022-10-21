@@ -6,7 +6,7 @@
 
 * GitHub username: CPawlus
 
-* Notes: Did not use doctest for testing. Made the unindent.cpp and indent.cpp their own executable files in the Makefile (./unindent and ./indent following lab instructions).
+* Notes: Did not use doctest for testing. Made the unindent.cpp and indent.cpp their own executable files in the Makefile (./unindent and ./indent following lab instructions). Also, the way I programmed the indent was a bit awkward. The brackets that were not main() did not align to the other brackets.
   
 * General instructions:
 - Fill in your name and GitHub username on top.
