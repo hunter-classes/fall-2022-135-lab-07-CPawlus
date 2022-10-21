@@ -35,6 +35,7 @@ int main()
    int count = 0;
    bool none = true;
    int start = 0;
+   int occur = 0;
    while(getline(std::cin, s)) 
    {     
       for(int i = 0; i < s.length(); i++) 
@@ -66,7 +67,6 @@ int main()
       if(none) 
       {
          std::cout << removeLeadingSpaces(s) << "\n";
-         count+=0;
          for(int a = 0; a < count; a++)  
          {
             std::cout << "    ";
